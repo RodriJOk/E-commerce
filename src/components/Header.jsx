@@ -5,7 +5,7 @@ import MyOrder from '../containers/MyOrder';
 
 import AppContext from '../context/AppContext'
 
-import '@styles/Header.scss';
+import '../styles/Header.scss';
 
 //import logo from "@icons/icon_menu.svg";
 const Header = () => {

@@ -11,7 +11,7 @@ const ProductItem = ({product}) => {
 	const {appToCard} = useContext(AppContext);
 
 	const hanleClick = (item) => {
-		addToCard(item);
+		appToCard(item);
 	}
 	return (
 		<div className="ProductItem">
