@@ -8,7 +8,7 @@ const Order = () => {
 				<span>03.25.21</span>
 				<span>7 articles</span>
 			</p>
-			<p>$560.00</p>
+			<p>ARS 560.00</p>
 			<img src="./icons/flechita.svg" alt="arrow" />
 		</div>
 	);
